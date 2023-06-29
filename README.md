@@ -1,4 +1,8 @@
-### Hi there 👋
+### IT'S MY LIFE
+
+- 🔭 I’m currently a Freelancer Dev
+- 🌱 I’m currently learning Java, trying to specializate in SpringBoot
+- 🏯 I'm currently doing college in UFU (Federal University of Uberlândia) in 4 semester
 
 <div> 
   <a href="https://www.instagram.com/rhuan_fcf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -7,17 +11,3 @@
   <a href="https://www.linkedin.com/in/rhuan-fernandes-287342229" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-<!--
-**RFHamster/RFHamster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
