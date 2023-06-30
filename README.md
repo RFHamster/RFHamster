@@ -1,7 +1,7 @@
 ### IT'S MY LIFE
 
 - 🔭 I’m currently a Freelancer Dev
-- 🌱 I’m currently learning Java, trying to specializate in SpringBoot
+- 🌱 I’m currently learning Java and C++, trying to specializate in SpringBoot and in Programming Contests
 - 🏯 I'm currently doing college in UFU (Federal University of Uberlândia) in 4 semester
 
 <div> 
