@@ -8,7 +8,7 @@
 
   🌱 I’m learning **Java, Spring Boot, Docker, Competitive Programming (Data Structures, Algorithms, etc)**
 
-  📝 I'm writing a research on [AI](AI)
+  📝 I'm writing a research on AI (Artifical Inteligence)
 
   📫 How to reach me **rfcf10@gmail.com**
 
