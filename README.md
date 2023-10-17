@@ -4,15 +4,13 @@
 <h3 align="center">College: UFU -> 4 semester</h3>
 <h4 align="center">Petiano at UFU -> Monitor in Robotics, Data Structure, Marathon</h4>
 
-> 🔭 I’m currently working on **create a intern system for VW Veiculos**
+  🔭 I’m **creating a intern system for VW Veiculos**
 
-> 🌱 I’m currently learning **Java, Spring Boot, Docker, Competitive Programming (Data Structures, Algorithms, etc)**
+  🌱 I’m learning **Java, Spring Boot, Docker, Competitive Programming (Data Structures, Algorithms, etc)**
 
-> 📝 I'm writing a research on [AI](AI)
+  📝 I'm writing a research on [AI](AI)
 
-> 📫 How to reach me **rfcf10@gmail.com**
-
-> 📄 Know about my experiences [https://www.linkedin.com/in/rhuan-fernandes-287342229/](https://www.linkedin.com/in/rhuan-fernandes-287342229/)
+  📫 How to reach me **rfcf10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
