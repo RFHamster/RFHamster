@@ -1,7 +1,7 @@
 <h1 align="center"> >> Rhuan Fernandes (RFHamster) << </h1>
 <h3 align="center">A determinate back-end developer</h3>
 <h3 align="center">Languages: Portuguese (Native) and English (Fluent)</h3>
-<h3 align="center">College: UFU -> 4 semester</h3>
+<h3 align="center">College: Information Systems (UFU) -> 4 semester</h3>
 <h4 align="center">Petiano at UFU -> Monitor in Robotics, Data Structure, Marathon</h4>
 
   🔭 I’m **creating a intern system for VW Veiculos**
